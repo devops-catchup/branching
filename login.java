@@ -1,5 +1,5 @@
 hello 
 
-we are done with GIT
+we are working on conflicts
 
   hello welcome
