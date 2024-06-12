@@ -1,5 +1,5 @@
 hello 
 
-we are working on conflicts
+b=70
 
   hello welcome
